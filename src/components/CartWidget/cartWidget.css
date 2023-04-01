@@ -1,0 +1,7 @@
+.cart{
+    color:white;
+    display: flex;
+}
+.cart .cartComponent{
+      margin-top:10px;  
+}
