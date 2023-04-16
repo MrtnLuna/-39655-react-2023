@@ -1,0 +1,23 @@
+.buttonsContainer{
+    
+    margin-top: 13px;
+
+}
+
+button{
+    border: 1px solid lightgrey;
+}
+
+.addCartWidget{
+    margin-top: 5px;
+}
+.addButton{
+    margin-right: 5px;
+}
+
+.minusButton{
+    margin-left: 5px;
+}
+.resetButton{
+    margin-left: 5px;
+}
