@@ -1,97 +1,138 @@
 [
         {
         "id": 1,
+        "category": 1,
         "modelo": "ARL514",
         "marca": "TEFIL",
         "precio": "",
         "stock": 10,
-        "img": "img/__TECFIL_ARL514.png"
+        "img": "/img/__TECFIL_ARL514.png"
         }, 
         {
         "id": 2,
+        "category": 1,
         "modelo": "ARL414",
         "marca": "TECFIL",
         "precio": "",
         "stock": 15,
-        "img" : "img/__TECFIL_ARL4147.png"
+        "img" : "/img/__TECFIL_ARL4147.png"
         },
         {
         "id": 3,
+        "category": 1,
         "modelo": "ARL4152",
         "marca": "TECFIL",
         "precio": "",
         "stock": 11,
-        "img" : "img/__TECFIL_ARL4152.png"
+        "img" : "/img/__TECFIL_ARL4152.png"
         },
         {
             "id": 4,
+            "category": 1,
             "modelo": "ARL4157",
             "marca": "TECFIL",
             "precio": "",
             "stock": 7,
-            "img" : "img/__TEFIL_ARL4158.png"
+            "img" : "/img/__TEFIL_ARL4158.png"
             }, 
             {
             "id": 5,
+            "category": 2,
             "modelo": "ARL4158",
             "marca": "TECFIL",
             "precio": "",
             "stock": 40,
-            "img" : "img/ACEITE_FEDERAL_PLATINUM_10W40_DIESEL_CJ6X1GL.png"
+            "img" : "/img/ACEITE_FEDERAL_PLATINUM_10W40_DIESEL_CJ6X1GL.png"
             },
             {
             "id": 6,
+            "category": 2,
             "modelo": "PLTATINUM 10W40 DIESEL CJ6XGL",
             "marca": "",
             "precio": "",
             "stock": 5,
-            "img" : "img/ACEITE_LIQUI_MOLY_LEICHTLAUF_PERFORMANCE_10W40_CJ4X4.png"
+            "img" : "/img/ACEITE_LIQUI_MOLY_LEICHTLAUF_PERFORMANCE_10W40_CJ4X4.png"
             },
             {
                 "id": 7,
+                "category": 2,
                 "modelo": "LEICHTLAUF PERFORMANCE 10W40 CJ4X4",
                 "marca": "LIQUI MOLY",
                 "precio": "",
                 "stock": 31,
-                "img" : "img/__TECFIL_ARL4152.png"
+                "img" : "/img/__TECFIL_ARL4152.png"
                 }, 
                 {
                 "id": 8,
+                "category": 2,
                 "modelo": "LONG TIME HIGH TECH CJ4X5",
                 "marca": "LIQUI MOLY",
                 "precio": "",
                 "stock": 23,
-                "img" : "img/ACEITE_LIQUI_MOLY_LONG_TIME_HIGH_TECH_CJ4X5.png"
+                "img" : "/img/ACEITE_LIQUI_MOLY_LONG_TIME_HIGH_TECH_CJ4X5.png"
                 },
                 {
                 "id": 9,
+                "category": 2,
                 "modelo": "HELIX HX7 10W40 CJ4X4LT",
                 "marca": "SHELL",
                 "precio": "",
                 "stock": 11,
-                "img" : "img/ACEITE_SHELL_HELIX_HX7_10W40_CJ4X4LT.png"
+                "img" : "/img/ACEITE_SHELL_HELIX_HX7_10W40_CJ4X4LT.png"
                 },
                 {
                     "id": 10,
+                    "category": 2,
                     "modelo": "PROFE AG 5W30 CJ3X5LT",
                     "marca": "SHELL",
                     "precio": "",
                     "stock": 40,
-                    "img" : "img/ACEITE_SHELL_PROF_AG_5W30_CJ3X5LT.png"
+                    "img" : "/img/ACEITE_SHELL_PROF_AG_5W30_CJ3X5LT.png"
                     }, 
                     {
                     "id": 11,
+                    "category": 2,
                     "modelo": "SUPER M GOLD 20W50 CJ12X1",
                     "marca": "SUNOCO",
                     "precio": "",
                     "stock": 30,
-                    "img" : "img/ACEITE_SUNOCO_SUPER_M_GOLD_20W50_MOTORCYCLE_CJ12X1.png"
+                    "img" : "/img/ACEITE_SUNOCO_SUPER_M_GOLD_20W50_MOTORCYCLE_CJ12X1.png"
                     },
                     {
                     "id": 12,
+                    "category": 2,
                     "modelo": "TOTAL QUARTZ 7000 10W40 3X4LT",
                     "marca": "SHELL",
                     "precio": "",
                     "stock": 52,
-                    "img" : "img/ACEITE_TOTAL_QUARTZ_7000_10W40_3X4LT.png"
-                    }]
+                    "img" : "/img/ACEITE_TOTAL_QUARTZ_7000_10W40_3X4LT.png"
+                    },
+                    {
+                        "id": 13,
+                        "category": 3,
+                        "modelo": "REFRIGERANTE RADIADOR ROJO",
+                        "marca": "SIMONIZ",
+                        "precio": "",
+                        "stock": 100,
+                        "img" : "/img/REFRIGERANTE_SIMONIZ.png"
+                        },
+                        {
+                            "id": 14,
+                            "category": 3,
+                            "modelo": "LONG LIFE",
+                            "marca": "PEAK",
+                            "precio": "",
+                            "stock": 10,
+                            "img" : "/img/REFRIGERANTE_PEAK_LONGLIFE.png"
+                         },
+                         {
+                            "id": 15,
+                            "category": 3,
+                            "modelo": "GLACELF SUPRA RED TIPO A",
+                            "marca": "TOTAL",
+                            "precio": "",
+                            "stock": 70,
+                            "img" : "/img/REFRIGERANTE_TOTAL.png"
+                         }
+
+                ]

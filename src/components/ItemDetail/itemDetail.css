@@ -1,0 +1,42 @@
+.cardDetail{
+    width: 100%;
+    height: 65vh;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+   
+    height: 95%;
+}
+
+.imgCol{
+    width: 70%;
+    height: 100%;
+}
+
+.detailCol{
+    width: 30%;
+    text-align: start;
+}
+
+.itemDetail{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-top: 10%;
+    font-size: 1.5rem;
+    color: grey;
+}
+
+.itemDetail span{
+    font-size: 1.75rem;
+    color:#0d6efd;
+}
+
+.buttonsCount{
+    text-align: center;
+    margin-top: 3%;
+}
+

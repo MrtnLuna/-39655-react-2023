@@ -1,0 +1,16 @@
+.greeting{
+    width: 100%;
+    margin-top: 150px;
+    text-align: start;
+}
+
+.showItem{
+    width: 100%;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
